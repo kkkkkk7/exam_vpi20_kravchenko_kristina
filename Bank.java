@@ -3,7 +3,6 @@ public class Bank {
     }
 
     public boolean showAllTransactions() {
-        return true;
     }
 
     public void addTransaction(Transaction transaction) {
